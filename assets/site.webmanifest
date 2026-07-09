@@ -1,0 +1,11 @@
+{
+  "name": "Lewis-Harvey Limited",
+  "short_name": "Lewis-Harvey",
+  "icons": [
+    { "src": "images/brand/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "images/brand/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#0B1D33",
+  "background_color": "#0B1D33",
+  "display": "browser"
+}

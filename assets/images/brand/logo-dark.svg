@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="232" height="46" viewBox="0 0 232 46" role="img" aria-label="Lewis-Harvey Limited">
+  <!-- PLACEHOLDER WORDMARK — dark-on-light version for print/light backgrounds.
+       Replace this file with the real logo. -->
+  <rect x="0" y="1" width="44" height="44" rx="10" fill="#0B1D33"/>
+  <path d="M23.76 9.28 L15.48 19.4 L22.14 19.4 L22.14 26.3 L30.66 16.2 L24.36 16.2 L24.36 9.28 Z" transform="translate(-1.5 3.2) scale(1.28)" fill="#FFB020"/>
+  <text x="56" y="24" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19.5" font-weight="700" letter-spacing="0.5" fill="#0B1D33">LEWIS-HARVEY</text>
+  <text x="56" y="39" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="8.4" font-weight="600" letter-spacing="2.45" fill="#51667B">ELECTRICAL CONTRACTORS</text>
+</svg>
